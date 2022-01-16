@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 24px 0;
+  }
+  
+  .header .num {
+    display: flex;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 15px;
+    margin-top: 24px;
+    color: #d3d3d3;
+    line-height: 22px;
+  }
+  .header .name {
+    display: flex;
+    margin: 0;
+    font-weight: 900;
+    font-size: 35px;
+    color: #393939;
+    line-height: 52px;
+    text-transform: capitalize;
+  }
