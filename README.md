@@ -3,12 +3,7 @@ And The app does not need a user interface to switch or regenerate the card, It 
 When the user clicks on the card, the card switches between its sides.
 
 The front side of the card include:
-• Pokémon id
-• Pokémon name 
-• Pokémon image
-• Pokémon type(s) as tag(s) 
+ Pokémon id, Pokémon name, Pokémon image, Pokémon type(s) as tag(s) 
 
 The backside of the card
-• Pokémon id (same as on the front side)
-• Pokémon name (same as on the front side)
-• Pokémon base stats
+ Pokémon id (same as on the front side), Pokémon name (same as on the front side), Pokémon base stats
